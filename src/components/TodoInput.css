@@ -1,0 +1,20 @@
+.user-input {
+  background-color: #c5cdcd;
+  padding: 10px;
+  width: 250px;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.userinput {
+  border-radius: 12px;
+  color: black;
+}
+
+.add-btn {
+  margin: 10px;
+  border-radius: 12px;
+  width: 40px;
+  border: 2px solid black;
+}

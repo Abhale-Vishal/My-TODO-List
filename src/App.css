@@ -1,0 +1,20 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0d6176;
+}
+
+.center-Conatiner {
+  height: 500px;
+  width: 350px;
+}
+
+.addtodo {
+  color: white;
+  margin-top: -5px;
+}
+.horiLine {
+  margin-top: -10px;
+}
